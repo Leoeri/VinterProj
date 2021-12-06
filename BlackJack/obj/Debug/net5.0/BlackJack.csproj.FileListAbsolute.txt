@@ -1,0 +1,16 @@
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\BlackJack.csproj.AssemblyReference.cache
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\BlackJack.AssemblyInfo.cs
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\bin\Debug\net5.0\BlackJack.exe
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\bin\Debug\net5.0\BlackJack.deps.json
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\bin\Debug\net5.0\BlackJack.runtimeconfig.json
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\bin\Debug\net5.0\BlackJack.runtimeconfig.dev.json
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\bin\Debug\net5.0\BlackJack.dll
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\bin\Debug\net5.0\ref\BlackJack.dll
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\bin\Debug\net5.0\BlackJack.pdb
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\BlackJack.dll
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\ref\BlackJack.dll
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\BlackJack.pdb
+C:\Users\Leo.eriksson5\Desktop\PrrPrr2\VinterProj\BlackJack\obj\Debug\net5.0\BlackJack.genruntimeconfig.cache
